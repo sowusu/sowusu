@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋🏿
+
+## Featured blog posts
+
+* **[Build a Simple Calculator With Vue.js in No Time](https://medium.com/better-programming/how-i-built-a-simple-calculator-with-vue-in-no-time-210b215a16eb)**
+* **[4 not-so-basic Git situations and what to do](https://medium.com/swlh/4-not-so-basic-git-situations-and-what-to-do-d5af297b2341)**
 
 <!--
 **sowusu/sowusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
