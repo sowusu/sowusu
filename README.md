@@ -1,7 +1,8 @@
 ### Hi there 👋🏿
-> *"Every day it gets a little easier… But you gotta do it every day — that’s the hard part.*
+> *"Every day it gets a little easier… But you gotta do it every day — that’s the hard part."*
 >
->  *-- jogger baboon*
+>  *-- jogger baboon (Bojack Horseman)*
+
 [![keep-swimming](keep-swimming.gif)](https://sowusu.github.io/about/)
 
 ## Featured blog posts
