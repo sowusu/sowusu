@@ -1,6 +1,8 @@
 ### Hi there 👋🏿
-[![dichrome ball](dichrome-ball.gif)](https://sowusu.github.io/about/)
-[![yy](yy-3d.gif)](https://sowusu.github.io/about/)
+> *"Every day it gets a little easier… But you gotta do it every day — that’s the hard part.*
+>
+>  *-- jogger baboon*
+[![keep-swimming](keep-swimming.gif)](https://sowusu.github.io/about/)
 
 ## Featured blog posts
 
