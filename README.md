@@ -1,5 +1,5 @@
 ### Hi there 👋🏿
-![dichrome-ball](dichrome-ball.gif)
+[![dichrome ball](dichrome-ball.gif)](https://sowusu.github.io/about/)
 
 ## Featured blog posts
 
