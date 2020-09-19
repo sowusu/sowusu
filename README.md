@@ -1,5 +1,5 @@
 ### Hi there 👋🏿
-[dichrome-ball](dichrome-ball.gif)
+![dichrome-ball](dichrome-ball.gif)
 
 ## Featured blog posts
 
