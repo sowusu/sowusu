@@ -1,4 +1,5 @@
 ### Hi there 👋🏿
+[dichrome-ball](dichrome-ball.gif)
 
 ## Featured blog posts
 
